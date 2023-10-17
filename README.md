@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 Passionate about robots, infrastructure, and all things code! Also a big Physics fan 🛰️ , check out my repos on orbital simulations in Python, or my Tomographic imaging software 😄
 
-[![Ademsk1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ademsk1)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ademsk1)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
