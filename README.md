@@ -22,7 +22,7 @@
 - 🏗️ Infrastructure
 - 🖥️ all things code!
 
-Mainly work on JavaScript, TypeScript and Python. 
+Mainly work on JavaScript, TypeScript and Python. Learning C++ in my spare time :D 
 
 
 Physics fanatic 🛰️ , check out my repos on orbital simulations in Python, or my Tomographic imaging Repo 😄
