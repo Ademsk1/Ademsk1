@@ -18,9 +18,9 @@
 ```
 
 ### Passionate about
-- 🤖 robots,
-- 🏗️ Infrastructure
-- 🖥️ all things code!
+- 🤖 robots, of all shapes and sizes 
+- 🏗️ Infrastructure, of a particular size. No bigger.
+- 🖥️ All things code! Accepting all shapes. Sizes may vary. 
 
 Mainly work on JavaScript, TypeScript and Python. Learning Golang in my spare time :D 
 
